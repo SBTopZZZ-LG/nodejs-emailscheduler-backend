@@ -1,0 +1,9 @@
+# Vscode dirs
+/.vscode
+
+# Env vars
+.env
+*.env
+
+# Node modules
+/node_modules
